@@ -1,0 +1,40 @@
+body{
+    background: linear-gradient(rgb(34, 34, 34) 30% , rgb(1, 1, 211) );
+    height: 100vh;
+    color: #ffffff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+   
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+}
+
+.titulo{
+    transform: translateX(8%);
+    top: 50%;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    position: absolute;
+    text-align: center;
+}
+h1{
+    font-size: 50px;
+}
+
+p {
+	padding: 1%;
+    font-size: 25px;
+}
+
+img {
+	padding: 1%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 250px;
+}
